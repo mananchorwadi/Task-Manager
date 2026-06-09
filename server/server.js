@@ -16,7 +16,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://task-manager-pi-ashen.vercel.app/",
+      "https://task-manager-pi-ashen.vercel.app",
     ],
     credentials: true,
   })
