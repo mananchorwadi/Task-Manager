@@ -2,6 +2,9 @@
 
 TaskManager is a full-stack task management app built with React + Vite on the frontend and Express + MongoDB on the backend. It supports user authentication, task CRUD, task status updates, search/filtering, pagination, and an improved dashboard UI.
 
+## Live Demo
+https://task-manager-pi-ashen.vercel.app
+
 ## Features
 
 - User registration and login
