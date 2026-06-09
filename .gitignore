@@ -3,8 +3,28 @@ node_modules/
 
 # Environment files
 .env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
 .env.*
 !.env.example
 
+# Build output
+/dist/
+/build/
+/.vite/
+
 # Logs
 npm-debug.log*
+*.log
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Coverage / test output
+coverage/
+
